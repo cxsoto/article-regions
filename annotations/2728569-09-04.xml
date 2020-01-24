@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>PMC2728569-09-04.jpg</filename>
+	<path>../imgs/PMC2728569-09-04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>figure_caption</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>646</ymin>
+			<xmax>560</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>PMC3033827-13-12.jpg</filename>
+	<path>../imgs/PMC3033827-13-12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>595</width>
+		<height>794</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>references</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>86</ymin>
+			<xmax>291</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

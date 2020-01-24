@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>PMC3270811-09-06.jpg</filename>
+	<path>../imgs/PMC3270811-09-06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>811</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>body</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>85</ymin>
+			<xmax>516</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+</annotation>
